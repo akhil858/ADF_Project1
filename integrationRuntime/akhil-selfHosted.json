@@ -1,0 +1,6 @@
+{
+	"name": "akhil-selfHosted",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

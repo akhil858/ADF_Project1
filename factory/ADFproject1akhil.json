@@ -1,0 +1,15 @@
+{
+	"name": "ADFproject1akhil",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4f042ccc-3e3b-4a25-8c41-6ff0cbf0af26",
+		"tenantId": "91ee60ed-035e-4d0d-bb52-14a6fc2d002f"
+	}
+}
